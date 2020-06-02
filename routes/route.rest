@@ -1,0 +1,24 @@
+GET http://localhost:3002/api/hF1sqWiqppE
+###
+
+GET http://localhost:3002/api/12
+
+###
+
+GET http://localhost:3002/api/
+
+###
+
+GET http://localhost:3002/api/6ONRf7h3Mdk
+
+###
+
+GET http://localhost:3002/stream
+
+###
+
+GET http://localhost:3002/stream/6ONRf7h3Mdk
+
+###
+
+GET https://guarded-dusk-16311.herokuapp.com/api/9A-HLSvtBWc
